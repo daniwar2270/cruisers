@@ -22,9 +22,3 @@ __User Stories:__
 | 3 | As a | user | I want to | rent a car | So that | need have button for rent a car and form and I need to be authenticated |
 | 4 | As a | user | I want to | view rented cars |  So that | need  a pge with rents history and I need to be authenticated |
 | 5 | As a | admin | I want to | add new cars for rent | So that | need have form for adding car | 
-
-__Contributors:__
-- Daniel Pavlov
-- Nedko Ivanov
-- Nikola Krivulev
-- Stelian Todorichkov
